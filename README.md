@@ -1,5 +1,4 @@
-![Screenshot_1685202509](https://github.com/Bee0510/LoopLabs/assets/111389771/97f17668-743d-4c7a-8920-74d0ded556d8)
-![Screenshot_1685203864](https://github.com/Bee0510/LoopLabs/assets/111389771/8c7f8038-9467-4f58-9446-af1e6ef4914e)
+
 # LoopLabs
 
 LoopLabs is a Flutter application that help you unleash your creativity,connects you to other community and a lots more.
@@ -39,3 +38,6 @@ Immerse yourself in a world of endless inspiration as you dive into an extensive
 
 Share and Make an Impact
 Make an impact by sharing your captivating shorts with a global audience. Let your creations transcend borders, touch hearts, and inspire change. Whether it's a powerful message, a mesmerizing dance routine, or a breathtaking travelogue, LoopLabs provides the stage for your stories to be seen, appreciated, and shared across the digital landscape.
+
+![Screenshot_1685202509](https://github.com/Bee0510/LoopLabs/assets/111389771/97f17668-743d-4c7a-8920-74d0ded556d8)
+![Screenshot_1685203864](https://github.com/Bee0510/LoopLabs/assets/111389771/8c7f8038-9467-4f58-9446-af1e6ef4914e)
